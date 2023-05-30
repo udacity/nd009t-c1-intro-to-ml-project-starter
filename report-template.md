@@ -33,13 +33,13 @@ Given more time to work with this dataset, I would like to investigate additiona
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](img/train.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](img/score.png)
 
 ## Summary
  Hyperparameter tuning using AutoGluon also offered improved performance over the initial raw submission; and it was better than that of the model with EDA, feature engineering and no hyperparameter tuning.Working forward my goal would be to improve the model by taking into consideration the working hours which impact the bike demand and the seasonal spikes and lows.
