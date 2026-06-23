@@ -1,0 +1,16 @@
+# Kaggle credentials
+.kaggle/
+kaggle.json
+access_token
+
+# Kaggle Bike Sharing Demand dataset
+bike-sharing-demand.zip
+train.csv
+test.csv
+sampleSubmission.csv
+
+# Generated submission files
+submission*.csv
+
+# AutoGluon model artifacts
+AutogluonModels/
